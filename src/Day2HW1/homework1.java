@@ -11,6 +11,8 @@ this is comming from another team member..
 
 */
 	
+	
+	int newAge = 33;
 	int age = 23;
 	
 	String car = "red";
