@@ -11,7 +11,7 @@ this is comming from another team member..
 
 */
 	
-	boolean result = false;
+	boolean result = true;
 	char grade = 'A';
 	String lastname = "garcia";
 	String city = "lima";
