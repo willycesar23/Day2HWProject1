@@ -10,6 +10,9 @@ public class homework1 {
 this is comming from another team member..
 
 */
+	
+	int age = 23;
+	
 	String car = "red";
 	boolean result = true;
 	char grade = 'A';
