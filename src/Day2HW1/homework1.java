@@ -10,7 +10,7 @@ public class homework1 {
 this is comming from another team member..
 
 */
-	
+	String car = "red";
 	boolean result = true;
 	char grade = 'A';
 	String lastname = "garcia";
