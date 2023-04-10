@@ -10,6 +10,7 @@ public class homework1 {
 this is comming from another team member..
 
 */
+	char grade = 'A';
 	String lastname = "garcia";
 	String city = "lima";
 }
