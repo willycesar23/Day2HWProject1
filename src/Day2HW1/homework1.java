@@ -11,4 +11,5 @@ this is comming from another team member..
 
 */
 	String lastname = "garcia";
+	String city = "lima";
 }
