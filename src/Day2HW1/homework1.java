@@ -10,5 +10,5 @@ public class homework1 {
 this is comming from another team member..
 
 */
-	Sttring lastname = "garcia";
+	String lastname = "garcia";
 }
