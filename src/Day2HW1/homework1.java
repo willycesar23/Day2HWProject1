@@ -11,7 +11,7 @@ this is comming from another team member..
 
 */
 	
-	
+	int age = 45;
 	String color = "blue";
 	String model = "sedan";
 	
