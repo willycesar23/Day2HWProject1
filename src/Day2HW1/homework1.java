@@ -12,6 +12,10 @@ this is comming from another team member..
 */
 	
 	
+	
+	String model = "sedan";
+	
+	
 	int newAge = 33;
 	int age = 23;
 	
