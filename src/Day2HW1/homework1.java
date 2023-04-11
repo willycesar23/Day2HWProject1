@@ -12,7 +12,7 @@ this is comming from another team member..
 */
 	
 	
-	
+	String color = "blue";
 	String model = "sedan";
 	
 	
